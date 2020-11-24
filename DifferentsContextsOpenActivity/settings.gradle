@@ -1,0 +1,6 @@
+include ':custom_views'
+include ':register_feature_module'
+include ':sample_nav_modules'
+include ':sample_context_redirection'
+include ':app'
+rootProject.name = "DifferentsContextsOpenActivity"

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_context">Application Context</string>
+    <string name="base_context">Base Context</string>
+    <string name="fragment_activity_context">Fragment Activity Context</string>
+    <string name="title_activity_sample_context">Activity Sample Conext</string>
+    <string name="title_activity_analyse_android_context">Analisando Valores de Context</string>
+
+</resources>

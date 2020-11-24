@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.br.xplorer.modcontexttest">
+
+    <application>
+        <activity android:name=".ActivitySampleContext">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"
+                    />
+                <category android:name="android.intent.category.DEFAULT"
+                    />
+                <data android:host="mod_context_activity_sample_context" android:scheme="navkey"
+                    />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AnalyseAndroidContextClass">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"
+                    />
+                <category android:name="android.intent.category.DEFAULT"
+                    />
+                <data android:host="mod_context_activity_analyse_and_context" android:scheme="navkey"
+                    />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,46 @@
+PackageManager class
+https://developer.android.com/reference/kotlin/android/content/pm/PackageManager
+
+
+resolverActivity
+https://cketti.de/2020/09/03/avoid-intent-resolveactivity/
+
+<data>
+https://developer.android.com/guide/topics/manifest/data-element
+
+<data android:scheme="string"
+      android:host="string"
+      android:port="string"
+      android:path="string"
+      android:pathPattern="string"
+      android:pathPrefix="string"
+      android:mimeType="string" />
+
+      <scheme>://<host>:<port>[<path>|<pathPrefix>|<pathPattern>]
+
+
+ ResolveInfo
+ https://developer.android.com/reference/android/content/pm/ResolveInfo
+
+ "Information that is returned from resolving an intent against an IntentFilter.
+ This partially corresponds to information corresponds to information collected from the
+ AndroidManifest.xml <intent> tags."
+
+
+ ActivityInfo
+ https://developer.android.com/reference/android/content/pm/ActivityInfo
+
+"Information you can retrieve about a particular application activity or receiver.
+This corresponds to information collected from the AndroidManifest.xml's <activity> and <receiver> tags."
+
+
+PackageManager
+https://developer.android.com/reference/kotlin/android/content/pm/PackageManager
+
+Class able to give us various kinds of information releated to the application packages that
+are currently installed on the device
+
+We can get a instance of this class through the nethod Context#getPackgeManager
+
+
+

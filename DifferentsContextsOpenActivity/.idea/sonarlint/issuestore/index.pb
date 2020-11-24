@@ -1,0 +1,19 @@
+
+g
+7app/src/main/java/com/br/xplorer/sample/MainActivity.kt,3/e/3ef9901cc36e9d0131a99303f560e5d425c87ba8
+?
+settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+u
+Emodcontexttest/src/main/java/com/br/xplorer/modcontexttest/TargetB.kt,7/d/7da944373e57607dfd75e73df162db4a9235ffec
+J
+raw/refs_resolver_activity,2/8/28b51c201c14e5d0d2f9994babdd705f0a18fbc2
+‚
+Rmodcontexttest/src/main/java/com/br/xplorer/modcontexttest/AnalyseContextsInApp.kt,0/c/0cb9ac22f837e44612aa3eb9dc45e05f9c971add
+[
++modcontexttest/src/main/AndroidManifest.xml,1/d/1dcaefd71af4730ebfc03d027d689fd3df606051
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+†
+Vsimplenavactivity/src/main/java/com/br/xplorer/simplenavactivity/NavigationActivity.kt,1/b/1bac2fb4129f73c1c3a0dd78c61af061b81a0768
